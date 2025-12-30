@@ -1,0 +1,5 @@
+{
+  "name": "SecureFlow AI: CI/CD Pipeline Automation",
+  "description": "An advanced dashboard for orchestrating and securing cloud deployments. Features AI-powered security validations, real-time pipeline monitoring, and performance benchmarking for Python-based CI/CD workflows.",
+  "requestFramePermissions": []
+}
